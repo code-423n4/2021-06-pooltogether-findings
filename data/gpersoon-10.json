@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "What is default duration when creditRateMantissa is not set",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/10"
+}

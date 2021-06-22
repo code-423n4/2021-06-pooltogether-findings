@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "GalloDaSballo",
+  "address": "0xB943cdb5622E7Bb26D3E462dB68Ee71D8868C940",
+  "risk": "2",
+  "title": "setPrizeStrategy check for Interface Supported in PrizePool.sol doesn't guarantee that the new prize strategy is valid",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/15"
+}

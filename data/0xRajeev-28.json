@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Evaluate security benefit vs gas usage trade-off for using nonreentrant modifier on different functions",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/28"
+}

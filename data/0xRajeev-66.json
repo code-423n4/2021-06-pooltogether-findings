@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "3",
+  "title": "Test configuration carryover to production deployment limits pool users to 5",
+  "issueId": 66,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/66"
+}

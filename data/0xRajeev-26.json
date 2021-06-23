@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Avoid use of state variables in event emissions to save gas",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/26"
+}

@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Named return values are never used in favor of explicit returns",
+  "issueId": 53,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/53"
+}

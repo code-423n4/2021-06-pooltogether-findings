@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Using function parameter in initialize() instead of state variable saves 100 gas",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/43"
+}

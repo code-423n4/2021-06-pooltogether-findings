@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Malicious pool creator/owner can arbitrarily/maliciously change prize strategy of an active pool",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/57"
+}

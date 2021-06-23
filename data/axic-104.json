@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "axic",
+  "address": "0x068484F7BD2b7D7C5a698d89e75ddcaf3a92B879",
+  "risk": "0",
+  "title": "Use ERC-165 instead of homebrew staticcall-based check",
+  "issueId": 104,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/104"
+}

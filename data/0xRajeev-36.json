@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Gas savings of (100*loop-iteration-count) by caching _tokens.end() in _tokenTotalSupply()",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/36"
+}

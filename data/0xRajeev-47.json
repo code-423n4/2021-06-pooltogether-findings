@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Caching sushiAddr and sushiBar in local variables to save 200 gas in supplyTokenTo()",
+  "issueId": 47,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/47"
+}

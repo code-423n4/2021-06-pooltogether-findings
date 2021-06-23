@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "token can be cached in a local variable to save 100 gas in _withdrawFromVault()",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/45"
+}

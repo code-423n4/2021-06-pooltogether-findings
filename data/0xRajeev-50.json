@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Switch modifier order to consistently place the nonreentrant modifier as the first one",
+  "issueId": 50,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/50"
+}

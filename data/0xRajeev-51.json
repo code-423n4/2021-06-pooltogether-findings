@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "The assumption that operator == to (user) may not hold leading to failed timelock deposits",
+  "issueId": 51,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/51"
+}

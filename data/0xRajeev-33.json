@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Gas savings of 100 by caching maxTimelockDuration in _calculateTimelockDuration()",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/33"
+}

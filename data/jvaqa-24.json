@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "jvaqa",
+  "address": "0x3C2b8156D8AbE9814BFc800b170b60C66eC33cc2",
+  "risk": "G",
+  "title": "Gas Optimization: PrizePool._calculateCreditBalance.creditBalance is incorrectly passed by reference rather than passed by value, causing unnecessary SLOADs instead of MLOADs",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/24"
+}

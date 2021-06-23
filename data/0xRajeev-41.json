@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Unnecessary initialization given that default value is already 0",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/41"
+}

@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Liquidity Cap changes for active pools affect winning odds unexpectedly",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/56"
+}

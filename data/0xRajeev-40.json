@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Using decreaseAllowance() function may save gas",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/40"
+}

@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "1",
+  "title": "`initialize` functions cam be frontrun",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/82"
+}

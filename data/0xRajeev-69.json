@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "Overly permissive threshold check allows high yield loss",
+  "issueId": 69,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/69"
+}

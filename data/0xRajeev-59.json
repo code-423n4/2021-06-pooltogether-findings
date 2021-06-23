@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Actual yield source check on address will succeed for non-existent contract",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/59"
+}

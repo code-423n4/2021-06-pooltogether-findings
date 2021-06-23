@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "jvaqa",
+  "address": "0x3C2b8156D8AbE9814BFc800b170b60C66eC33cc2",
+  "risk": "1",
+  "title": "PrizePool.beforeTokenTransfer() incorrectly uses msg.sender in seven places instead of _msgSender()",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/23"
+}

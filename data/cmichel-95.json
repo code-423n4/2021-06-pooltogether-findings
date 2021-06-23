@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "G",
+  "title": "YearnV2YieldSource save gas with pre-approval",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/95"
+}

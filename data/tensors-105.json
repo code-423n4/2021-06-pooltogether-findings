@@ -1,0 +1,9 @@
+{
+  "contest": "PoolTogether contest",
+  "handle": "tensors",
+  "address": "0x3C86b2B86F0A4B180802026cB1d0d73F80200AB3",
+  "risk": "3",
+  "title": "Manual deposits can manipulate share price",
+  "issueId": 105,
+  "issueUrl": "https://github.com/code-423n4/2021-06-pooltogether-findings/issues/105"
+}
